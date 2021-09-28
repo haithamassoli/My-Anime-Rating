@@ -48,11 +48,17 @@ table thead td{
   position: relative;
   color: white;
   text-align: center;
+  border-radius: 4px;
   font-weight: bold;
   font-family: Arial, Helvetica, sans-serif;
-  width: 45px;
-  padding: 2px;
+  width: 53px;
+  padding: 4px;
   left: 7px;
+  border: none;
+  cursor: pointer;
+}
+.d:hover{
+  width:60px;
 }
 
 .naruto{
